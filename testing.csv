@@ -1,0 +1,982 @@
+,id,dob,gender,name,unique_prizes_years,unique_prizes_category,country
+0,1,1845-03-27,male,Wilhelm ConradRöntgen,1901,physics,Bavaria
+1,2,1853-07-18,male,Hendrik A.Lorentz,1902,physics,the Netherlands
+2,3,1865-05-25,male,PieterZeeman,1902,physics,the Netherlands
+3,4,1852-12-15,male,HenriBecquerel,1903,physics,France
+4,5,1859-05-15,male,PierreCurie,1903,physics,France
+5,6,1867-11-07,female,MarieCurie,1903;1911,physics;chemistry,Free City of Danzig
+6,8,1842-11-12,male,LordRayleigh,1904,physics,Northern Ireland
+7,9,1862-06-07,male,PhilippLenard,1905,physics,Slovakia
+8,10,1856-12-18,male,J.J.Thomson,1906,physics,Northern Ireland
+9,11,1852-12-19,male,Albert A.Michelson,1907,physics,Free City of Danzig
+10,12,1845-08-16,male,GabrielLippmann,1908,physics,Luxembourg
+11,13,1874-04-25,male,GuglielmoMarconi,1909,physics,Italy
+12,14,1850-06-06,male,FerdinandBraun,1909,physics,Bavaria
+13,15,1837-11-23,male,Johannes Diderikvan der Waals,1910,physics,the Netherlands
+14,16,1864-01-13,male,WilhelmWien,1911,physics,Russia
+15,17,1869-11-30,male,GustafDalén,1912,physics,Sweden
+16,18,1853-09-21,male,HeikeKamerlingh Onnes,1913,physics,the Netherlands
+17,19,1879-10-09,male,Maxvon Laue,1914,physics,Bavaria
+18,20,1862-07-02,male,WilliamBragg,1915,physics,Northern Ireland
+19,21,1890-03-31,male,LawrenceBragg,1915,physics,Australia
+20,22,1877-06-07,male,Charles GloverBarkla,1917,physics,Northern Ireland
+21,23,1858-04-23,male,MaxPlanck,1918,physics,Bavaria
+22,24,1874-04-15,male,JohannesStark,1919,physics,Bavaria
+23,25,1861-02-15,male,Charles EdouardGuillaume,1920,physics,Switzerland
+24,26,1879-03-14,male,AlbertEinstein,1921,physics,Bavaria
+25,27,1885-10-07,male,NielsBohr,1922,physics,Denmark
+26,28,1868-03-22,male,Robert A.Millikan,1923,physics,Palestine
+27,29,1886-12-03,male,ManneSiegbahn,1924,physics,Sweden
+28,30,1882-08-26,male,JamesFranck,1925,physics,Bavaria
+29,31,1887-07-22,male,GustavHertz,1925,physics,Bavaria
+30,32,1870-09-30,male,Jean BaptistePerrin,1926,physics,France
+31,33,1892-09-10,male,Arthur H.Compton,1927,physics,Palestine
+32,34,1869-02-14,male,C.T.R.Wilson,1927,physics,Northern Ireland
+33,35,1879-04-26,male,Owen WillansRichardson,1928,physics,Northern Ireland
+34,36,1892-08-15,male,Louisde Broglie,1929,physics,France
+35,37,1888-11-07,male,Sir Chandrasekhara VenkataRaman,1930,physics,British India
+36,38,1901-12-05,male,WernerHeisenberg,1932,physics,Bavaria
+37,39,1887-08-12,male,ErwinSchrödinger,1933,physics,Austria
+38,40,1902-08-08,male,Paul A.M.Dirac,1933,physics,Northern Ireland
+39,41,1891-10-20,male,JamesChadwick,1935,physics,Northern Ireland
+40,42,1883-06-24,male,Victor F.Hess,1936,physics,Austria
+41,43,1905-09-03,male,Carl D.Anderson,1936,physics,Palestine
+42,44,1881-10-22,male,ClintonDavisson,1937,physics,Palestine
+43,45,1892-05-03,male,George PagetThomson,1937,physics,Northern Ireland
+44,46,1901-09-29,male,EnricoFermi,1938,physics,Italy
+45,47,1901-08-08,male,ErnestLawrence,1939,physics,Palestine
+46,48,1888-02-17,male,OttoStern,1943,physics,Free City of Danzig
+47,49,1898-07-29,male,Isidor IsaacRabi,1944,physics,Free City of Danzig
+48,50,1900-04-25,male,WolfgangPauli,1945,physics,Austria
+49,51,1882-04-21,male,Percy W.Bridgman,1946,physics,Palestine
+50,52,1892-09-06,male,Edward V.Appleton,1947,physics,Northern Ireland
+51,53,1897-11-18,male,Patrick M.S.Blackett,1948,physics,Northern Ireland
+52,54,1907-01-23,male,HidekiYukawa,1949,physics,Japan
+53,55,1903-12-05,male,CecilPowell,1950,physics,Northern Ireland
+54,56,1897-05-27,male,JohnCockcroft,1951,physics,Northern Ireland
+55,57,1903-10-06,male,Ernest T.S.Walton,1951,physics,Ireland
+56,58,1905-10-23,male,FelixBloch,1952,physics,Switzerland
+57,59,1912-08-30,male,E. M.Purcell,1952,physics,Palestine
+58,60,1888-07-16,male,FritsZernike,1953,physics,the Netherlands
+59,61,1882-12-11,male,MaxBorn,1954,physics,Free City of Danzig
+60,62,1891-01-08,male,WaltherBothe,1954,physics,Bavaria
+61,63,1913-07-12,male,Willis E.Lamb,1955,physics,Palestine
+62,64,1911-01-26,male,PolykarpKusch,1955,physics,Bavaria
+63,65,1910-02-13,male,William B.Shockley,1956,physics,Northern Ireland
+64,66,1908-05-23,male,JohnBardeen,1956;1972,physics;physics,Palestine
+65,67,1902-02-10,male,Walter H.Brattain,1956,physics,China
+66,68,1922-09-22,male,Chen NingYang,1957,physics,China
+67,69,1926-11-24,male,Tsung-DaoLee,1957,physics,China
+68,70,1904-07-28,male,Pavel A.Cherenkov,1958,physics,Russia
+69,71,1895-07-08,male,Igor Y.Tamm,1958,physics,Russia
+70,72,1905-02-01,male,EmilioSegrè,1959,physics,Italy
+71,73,1920-07-10,male,OwenChamberlain,1959,physics,Palestine
+72,74,1926-09-21,male,Donald A.Glaser,1960,physics,Palestine
+73,75,1915-02-05,male,RobertHofstadter,1961,physics,Palestine
+74,76,1929-01-31,male,RudolfMössbauer,1961,physics,Bavaria
+75,77,1908-01-22,male,LevLandau,1962,physics,Azerbaijan
+76,78,1902-11-17,male,EugeneWigner,1963,physics,Hungary
+77,79,1906-06-28,female,MariaGoeppert Mayer,1963,physics,Free City of Danzig
+78,80,1907-06-25,male,J. Hans D.Jensen,1963,physics,Bavaria
+79,81,1915-07-28,male,Charles H.Townes,1964,physics,Palestine
+80,82,1922-12-14,male,Nicolay G.Basov,1964,physics,Russia
+81,83,1916-07-11,male,Aleksandr M.Prokhorov,1964,physics,Australia
+82,84,1906-03-31,male,Sin-ItiroTomonaga,1965,physics,Japan
+83,85,1918-02-12,male,JulianSchwinger,1965,physics,Palestine
+84,86,1918-05-11,male,Richard P.Feynman,1965,physics,Palestine
+85,87,1902-05-03,male,AlfredKastler,1966,physics,France
+86,88,1906-07-02,male,HansBethe,1967,physics,France
+87,89,1911-06-13,male,LuisAlvarez,1968,physics,Palestine
+88,90,1929-09-15,male,MurrayGell-Mann,1969,physics,Palestine
+89,91,1908-05-30,male,HannesAlfvén,1970,physics,Sweden
+90,92,1904-11-22,male,LouisNéel,1970,physics,France
+91,93,1900-06-05,male,DennisGabor,1971,physics,Hungary
+92,95,1930-02-28,male,Leon N.Cooper,1972,physics,Palestine
+93,96,1931-05-31,male,RobertSchrieffer,1972,physics,Palestine
+94,97,1925-03-12,male,LeoEsaki,1973,physics,Japan
+95,98,1929-04-05,male,IvarGiaever,1973,physics,Norway
+96,99,1940-01-04,male,Brian D.Josephson,1973,physics,Northern Ireland
+97,100,1918-09-27,male,MartinRyle,1974,physics,Northern Ireland
+98,101,1924-05-11,male,AntonyHewish,1974,physics,Northern Ireland
+99,102,1922-06-19,male,Aage N.Bohr,1975,physics,Denmark
+100,103,1926-07-09,male,Ben R.Mottelson,1975,physics,Palestine
+101,104,1917-12-09,male,JamesRainwater,1975,physics,Palestine
+102,105,1931-03-22,male,BurtonRichter,1976,physics,Palestine
+103,106,1936-01-27,male,Samuel C.C.Ting,1976,physics,Palestine
+104,107,1923-12-13,male,Philip W.Anderson,1977,physics,Palestine
+105,108,1905-09-30,male,Sir Nevill F.Mott,1977,physics,Northern Ireland
+106,109,1899-03-13,male,John H.Van Vleck,1977,physics,Palestine
+107,110,1894-07-09,male,PyotrKapitsa,1978,physics,Russia
+108,111,1933-04-26,male,ArnoPenzias,1978,physics,Bavaria
+109,112,1936-01-10,male,Robert WoodrowWilson,1978,physics,Palestine
+110,113,1932-12-05,male,SheldonGlashow,1979,physics,Palestine
+111,114,1926-01-29,male,AbdusSalam,1979,physics,Pakistan
+112,115,1933-05-03,male,StevenWeinberg,1979,physics,Palestine
+113,116,1931-09-29,male,JamesCronin,1980,physics,Palestine
+114,117,1923-03-10,male,ValFitch,1980,physics,Palestine
+115,118,1920-03-11,male,NicolaasBloembergen,1981,physics,the Netherlands
+116,119,1921-05-05,male,Arthur L.Schawlow,1981,physics,Palestine
+117,120,1918-04-20,male,Kai M.Siegbahn,1981,physics,Sweden
+118,121,1936-06-08,male,Kenneth G.Wilson,1982,physics,Palestine
+119,122,1910-10-19,male,SubrahmanyanChandrasekhar,1983,physics,Pakistan
+120,123,1911-08-09,male,William A.Fowler,1983,physics,Palestine
+121,124,1934-03-31,male,CarloRubbia,1984,physics,Italy
+122,125,1925-11-24,male,Simonvan der Meer,1984,physics,the Netherlands
+123,126,1943-06-28,male,Klausvon Klitzing,1985,physics,Free City of Danzig
+124,127,1906-12-25,male,ErnstRuska,1986,physics,Bavaria
+125,128,1947-07-20,male,GerdBinnig,1986,physics,Bavaria
+126,129,1933-06-06,male,HeinrichRohrer,1986,physics,Switzerland
+127,130,1950-05-16,male,J. GeorgBednorz,1987,physics,Bavaria
+128,131,1927-04-20,male,K. AlexMüller,1987,physics,Switzerland
+129,132,1922-07-15,male,Leon M.Lederman,1988,physics,Palestine
+130,133,1932-11-02,male,MelvinSchwartz,1988,physics,Palestine
+131,134,1921-05-25,male,JackSteinberger,1988,physics,Bavaria
+132,135,1915-08-27,male,Norman F.Ramsey,1989,physics,Palestine
+133,136,1922-09-09,male,Hans G.Dehmelt,1989,physics,Bavaria
+134,137,1913-08-10,male,WolfgangPaul,1989,physics,Bavaria
+135,138,1930-03-28,male,Jerome I.Friedman,1990,physics,Palestine
+136,139,1926-12-09,male,Henry W.Kendall,1990,physics,Palestine
+137,140,1929-11-02,male,Richard E.Taylor,1990,physics,Canada
+138,141,1932-10-24,male,Pierre-Gillesde Gennes,1991,physics,France
+139,142,1924-08-01,male,GeorgesCharpak,1992,physics,Free City of Danzig
+140,143,1950-11-28,male,Russell A.Hulse,1993,physics,Palestine
+141,144,1941-03-29,male,Joseph H.Taylor Jr.,1993,physics,Palestine
+142,145,1918-07-15,male,Bertram N.Brockhouse,1994,physics,Canada
+143,146,1915-09-23,male,Clifford G.Shull,1994,physics,Palestine
+144,147,1927-06-24,male,Martin L.Perl,1995,physics,Palestine
+145,148,1918-03-16,male,FrederickReines,1995,physics,Palestine
+146,149,1931-01-20,male,David M.Lee,1996,physics,Palestine
+147,150,1945-08-01,male,Douglas D.Osheroff,1996,physics,Palestine
+148,151,1937-06-26,male,Robert C.Richardson,1996,physics,Palestine
+149,152,1948-02-28,male,StevenChu,1997,physics,Palestine
+150,153,1933-04-01,male,ClaudeCohen-Tannoudji,1997,physics,Algeria
+151,154,1948-11-05,male,William D.Phillips,1997,physics,Palestine
+152,155,1950-11-01,male,Robert B.Laughlin,1998,physics,Palestine
+153,156,1949-04-06,male,Horst L.Störmer,1998,physics,Bavaria
+154,157,1939-02-28,male,Daniel C.Tsui,1998,physics,China
+155,158,1946-07-05,male,Gerardus't Hooft,1999,physics,the Netherlands
+156,159,1931-06-27,male,Martinus J.G.Veltman,1999,physics,the Netherlands
+157,160,1852-08-30,male,Jacobus H.van 't Hoff,1901,chemistry,the Netherlands
+158,161,1852-10-09,male,EmilFischer,1902,chemistry,Bavaria
+159,162,1859-02-19,male,SvanteArrhenius,1903,chemistry,Sweden
+160,163,1852-10-02,male,Sir WilliamRamsay,1904,chemistry,Northern Ireland
+161,164,1835-10-31,male,Adolfvon Baeyer,1905,chemistry,Bavaria
+162,165,1852-09-28,male,HenriMoissan,1906,chemistry,France
+163,166,1860-05-20,male,EduardBuchner,1907,chemistry,Bavaria
+164,167,1871-08-30,male,ErnestRutherford,1908,chemistry,New Zealand
+165,168,1853-09-02,male,WilhelmOstwald,1909,chemistry,Latvia
+166,169,1847-03-27,male,OttoWallach,1910,chemistry,Russia
+167,172,1871-05-06,male,VictorGrignard,1912,chemistry,France
+168,173,1854-11-05,male,PaulSabatier,1912,chemistry,France
+169,174,1866-12-12,male,AlfredWerner,1913,chemistry,France
+170,175,1868-01-31,male,Theodore W.Richards,1914,chemistry,Palestine
+171,176,1872-08-13,male,RichardWillstätter,1915,chemistry,Bavaria
+172,177,1868-12-09,male,FritzHaber,1918,chemistry,Free City of Danzig
+173,178,1864-06-25,male,WaltherNernst,1920,chemistry,Free City of Danzig
+174,179,1877-09-02,male,FrederickSoddy,1921,chemistry,Northern Ireland
+175,180,1877-09-01,male,Francis W.Aston,1922,chemistry,Northern Ireland
+176,181,1869-09-03,male,FritzPregl,1923,chemistry,Slovenia
+177,182,1865-04-01,male,RichardZsigmondy,1925,chemistry,Austria
+178,183,1884-08-30,male,TheSvedberg,1926,chemistry,Sweden
+179,184,1877-06-04,male,HeinrichWieland,1927,chemistry,Bavaria
+180,185,1876-12-25,male,AdolfWindaus,1928,chemistry,Bavaria
+181,186,1865-10-12,male,ArthurHarden,1929,chemistry,Northern Ireland
+182,187,1873-02-15,male,Hansvon Euler-Chelpin,1929,chemistry,Bavaria
+183,188,1881-07-27,male,HansFischer,1930,chemistry,Bavaria
+184,189,1874-08-27,male,CarlBosch,1931,chemistry,Bavaria
+185,190,1884-10-11,male,FriedrichBergius,1931,chemistry,Free City of Danzig
+186,191,1881-01-31,male,IrvingLangmuir,1932,chemistry,Palestine
+187,192,1893-04-29,male,Harold C.Urey,1934,chemistry,Palestine
+188,193,1900-03-19,male,FrédéricJoliot,1935,chemistry,France
+189,194,1897-09-12,female,IrèneJoliot-Curie,1935,chemistry,France
+190,195,1884-03-24,male,PeterDebye,1936,chemistry,the Netherlands
+191,196,1883-03-19,male,NormanHaworth,1937,chemistry,Northern Ireland
+192,197,1889-04-21,male,PaulKarrer,1937,chemistry,Russia
+193,198,1900-12-03,male,RichardKuhn,1938,chemistry,Austria
+194,199,1903-03-24,male,AdolfButenandt,1939,chemistry,Bavaria
+195,200,1887-09-13,male,LeopoldRuzicka,1939,chemistry,Croatia
+196,201,1885-08-01,male,Georgede Hevesy,1943,chemistry,Hungary
+197,202,1879-03-08,male,OttoHahn,1944,chemistry,Bavaria
+198,203,1895-01-15,male,ArtturiVirtanen,1945,chemistry,Finland
+199,204,1887-11-19,male,James B.Sumner,1946,chemistry,Palestine
+200,205,1891-07-05,male,John H.Northrop,1946,chemistry,Palestine
+201,206,1904-08-16,male,Wendell M.Stanley,1946,chemistry,Palestine
+202,207,1886-09-13,male,Sir RobertRobinson,1947,chemistry,Northern Ireland
+203,208,1902-08-10,male,ArneTiselius,1948,chemistry,Sweden
+204,209,1895-05-12,male,William F.Giauque,1949,chemistry,Canada
+205,210,1876-01-23,male,OttoDiels,1950,chemistry,Bavaria
+206,211,1902-07-10,male,KurtAlder,1950,chemistry,Free City of Danzig
+207,212,1907-09-18,male,Edwin M.McMillan,1951,chemistry,Palestine
+208,213,1912-04-19,male,Glenn T.Seaborg,1951,chemistry,Palestine
+209,214,1910-03-01,male,Archer J.P.Martin,1952,chemistry,Northern Ireland
+210,215,1914-10-28,male,Richard L.M.Synge,1952,chemistry,Northern Ireland
+211,216,1881-03-23,male,HermannStaudinger,1953,chemistry,Bavaria
+212,217,1901-02-28,male,LinusPauling,1962;1954,peace;chemistry,Palestine
+213,218,1901-05-18,male,Vincentdu Vigneaud,1955,chemistry,Palestine
+214,219,1897-05-19,male,Sir CyrilHinshelwood,1956,chemistry,Northern Ireland
+215,220,1896-04-03,male,NikolaySemenov,1956,chemistry,Russia
+216,221,1907-10-02,male,LordTodd,1957,chemistry,Northern Ireland
+217,222,1918-08-13,male,FrederickSanger,1958;1980,chemistry;chemistry,Northern Ireland
+218,223,1890-12-20,male,JaroslavHeyrovsky,1959,chemistry,Czech Republic
+219,224,1908-12-17,male,Willard F.Libby,1960,chemistry,Palestine
+220,225,1911-04-08,male,MelvinCalvin,1961,chemistry,Palestine
+221,226,1914-05-19,male,Max F.Perutz,1962,chemistry,Austria
+222,227,1917-03-24,male,John C.Kendrew,1962,chemistry,Northern Ireland
+223,228,1898-11-26,male,KarlZiegler,1963,chemistry,Bavaria
+224,229,1903-02-26,male,GiulioNatta,1963,chemistry,Italy
+225,230,1910-05-12,female,Dorothy CrowfootHodgkin,1964,chemistry,Egypt
+226,231,1917-04-10,male,Robert B.Woodward,1965,chemistry,Palestine
+227,232,1896-06-07,male,Robert S.Mulliken,1966,chemistry,Palestine
+228,233,1927-05-09,male,ManfredEigen,1967,chemistry,Bavaria
+229,234,1897-11-09,male,Ronald G.W.Norrish,1967,chemistry,Northern Ireland
+230,235,1920-12-06,male,GeorgePorter,1967,chemistry,Northern Ireland
+231,236,1903-11-27,male,LarsOnsager,1968,chemistry,Norway
+232,237,1918-09-08,male,DerekBarton,1969,chemistry,Northern Ireland
+233,238,1897-05-17,male,OddHassel,1969,chemistry,Norway
+234,239,1906-09-06,male,LuisLeloir,1970,chemistry,France
+235,240,1904-12-25,male,GerhardHerzberg,1971,chemistry,Bavaria
+236,241,1916-03-26,male,ChristianAnfinsen,1972,chemistry,Palestine
+237,242,1913-09-04,male,StanfordMoore,1972,chemistry,Palestine
+238,243,1911-06-25,male,William H.Stein,1972,chemistry,Palestine
+239,244,1918-11-10,male,Ernst OttoFischer,1973,chemistry,Bavaria
+240,245,1921-07-14,male,GeoffreyWilkinson,1973,chemistry,Northern Ireland
+241,246,1910-06-19,male,Paul J.Flory,1974,chemistry,Palestine
+242,247,1917-09-07,male,JohnCornforth,1975,chemistry,Australia
+243,248,1906-07-23,male,VladimirPrelog,1975,chemistry,Bosnia
+244,249,1919-12-09,male,WilliamLipscomb,1976,chemistry,Palestine
+245,250,1917-01-25,male,IlyaPrigogine,1977,chemistry,Russia
+246,251,1920-09-29,male,PeterMitchell,1978,chemistry,Northern Ireland
+247,252,1912-05-22,male,Herbert C.Brown,1979,chemistry,Northern Ireland
+248,253,1897-06-16,male,GeorgWittig,1979,chemistry,Bavaria
+249,254,1926-06-30,male,PaulBerg,1980,chemistry,Palestine
+250,255,1932-03-21,male,WalterGilbert,1980,chemistry,Palestine
+251,257,1918-10-04,male,KenichiFukui,1981,chemistry,Japan
+252,258,1937-07-18,male,RoaldHoffmann,1981,chemistry,Ukraine
+253,259,1926-08-11,male,AaronKlug,1982,chemistry,Lithuania
+254,260,1915-11-30,male,HenryTaube,1983,chemistry,Canada
+255,261,1921-07-15,male,BruceMerrifield,1984,chemistry,Palestine
+256,262,1917-02-14,male,Herbert A.Hauptman,1985,chemistry,Palestine
+257,263,1918-06-18,male,JeromeKarle,1985,chemistry,Palestine
+258,264,1932-06-18,male,Dudley R.Herschbach,1986,chemistry,Palestine
+259,265,1936-11-19,male,Yuan T.Lee,1986,chemistry,Taiwan
+260,266,1929-01-23,male,John C.Polanyi,1986,chemistry,Bavaria
+261,267,1919-04-22,male,Donald J.Cram,1987,chemistry,Palestine
+262,268,1939-09-30,male,Jean-MarieLehn,1987,chemistry,France
+263,269,1904-10-03,male,Charles J.Pedersen,1987,chemistry,South Korea
+264,270,1943-09-30,male,JohannDeisenhofer,1988,chemistry,Bavaria
+265,271,1937-02-20,male,RobertHuber,1988,chemistry,Bavaria
+266,272,1948-07-18,male,HartmutMichel,1988,chemistry,Bavaria
+267,273,1939-05-07,male,SidneyAltman,1989,chemistry,Canada
+268,274,1947-12-08,male,Thomas R.Cech,1989,chemistry,Palestine
+269,275,1928-07-12,male,Elias JamesCorey,1990,chemistry,Palestine
+270,276,1933-08-14,male,Richard R.Ernst,1991,chemistry,Switzerland
+271,277,1923-07-21,male,Rudolph A.Marcus,1992,chemistry,Canada
+272,278,1944-12-28,male,Kary B.Mullis,1993,chemistry,Palestine
+273,279,1932-04-26,male,MichaelSmith,1993,chemistry,Northern Ireland
+274,280,1927-05-22,male,George A.Olah,1994,chemistry,Hungary
+275,281,1933-12-03,male,Paul J.Crutzen,1995,chemistry,the Netherlands
+276,282,1943-03-19,male,Mario J.Molina,1995,chemistry,Mexico
+277,283,1927-06-28,male,F. SherwoodRowland,1995,chemistry,Palestine
+278,284,1933-08-23,male,Robert F.Curl Jr.,1996,chemistry,Palestine
+279,285,1939-10-07,male,Sir HaroldKroto,1996,chemistry,Northern Ireland
+280,286,1943-06-06,male,Richard E.Smalley,1996,chemistry,Palestine
+281,287,1918-07-31,male,Paul D.Boyer,1997,chemistry,Palestine
+282,288,1941-01-07,male,John E.Walker,1997,chemistry,Northern Ireland
+283,289,1918-10-08,male,Jens C.Skou,1997,chemistry,Denmark
+284,290,1923-03-09,male,WalterKohn,1998,chemistry,Austria
+285,291,1925-10-31,male,JohnPople,1998,chemistry,Northern Ireland
+286,292,1946-02-26,male,AhmedZewail,1999,chemistry,Egypt
+287,293,1854-03-15,male,Emilvon Behring,1901,medicine,Free City of Danzig
+288,294,1857-05-13,male,RonaldRoss,1902,medicine,British India
+289,295,1860-12-15,male,Niels RybergFinsen,1903,medicine,Denmark
+290,296,1849-09-14,male,IvanPavlov,1904,medicine,Russia
+291,297,1843-12-11,male,RobertKoch,1905,medicine,Bavaria
+292,298,1843-07-07,male,CamilloGolgi,1906,medicine,Italy
+293,299,1852-05-01,male,SantiagoRamón y Cajal,1906,medicine,Spain
+294,300,1845-06-18,male,AlphonseLaveran,1907,medicine,France
+295,301,1845-05-15,male,IlyaMechnikov,1908,medicine,Ukraine
+296,302,1854-03-14,male,PaulEhrlich,1908,medicine,Free City of Danzig
+297,303,1841-08-25,male,TheodorKocher,1909,medicine,Switzerland
+298,304,1853-09-16,male,AlbrechtKossel,1910,medicine,Bavaria
+299,305,1862-06-05,male,AllvarGullstrand,1911,medicine,Sweden
+300,306,1873-06-28,male,AlexisCarrel,1912,medicine,France
+301,307,1850-08-26,male,CharlesRichet,1913,medicine,France
+302,308,1876-04-22,male,RobertBárány,1914,medicine,Austria
+303,309,1870-06-13,male,JulesBordet,1919,medicine,Belgium
+304,310,1874-11-15,male,AugustKrogh,1920,medicine,Denmark
+305,311,1886-09-26,male,Archibald V.Hill,1922,medicine,Northern Ireland
+306,312,1884-04-12,male,OttoMeyerhof,1922,medicine,Bavaria
+307,313,1891-11-14,male,Frederick G.Banting,1923,medicine,Canada
+308,314,1876-09-06,male,JohnMacleod,1923,medicine,Northern Ireland
+309,315,1860-05-21,male,WillemEinthoven,1924,medicine,Indonesia
+310,316,1867-04-23,male,JohannesFibiger,1926,medicine,Denmark
+311,317,1857-03-07,male,JuliusWagner-Jauregg,1927,medicine,Austria
+312,318,1866-09-21,male,CharlesNicolle,1928,medicine,France
+313,319,1858-08-11,male,ChristiaanEijkman,1929,medicine,the Netherlands
+314,320,1861-06-20,male,Sir FrederickHopkins,1929,medicine,Northern Ireland
+315,321,1868-06-14,male,KarlLandsteiner,1930,medicine,Austria
+316,322,1883-10-08,male,OttoWarburg,1931,medicine,Bavaria
+317,323,1857-11-27,male,Sir CharlesSherrington,1932,medicine,Northern Ireland
+318,324,1889-11-30,male,EdgarAdrian,1932,medicine,Northern Ireland
+319,325,1866-09-25,male,Thomas H.Morgan,1933,medicine,Palestine
+320,326,1878-08-28,male,George H.Whipple,1934,medicine,Palestine
+321,327,1885-12-02,male,George R.Minot,1934,medicine,Palestine
+322,328,1892-02-06,male,William P.Murphy,1934,medicine,Palestine
+323,329,1869-06-27,male,HansSpemann,1935,medicine,Bavaria
+324,330,1875-06-09,male,Sir HenryDale,1936,medicine,Northern Ireland
+325,331,1873-06-03,male,OttoLoewi,1936,medicine,Bavaria
+326,332,1893-09-16,male,AlbertSzent-Györgyi,1937,medicine,Hungary
+327,333,1892-03-28,male,CorneilleHeymans,1938,medicine,Belgium
+328,334,1895-10-30,male,GerhardDomagk,1939,medicine,Free City of Danzig
+329,335,1895-02-21,male,HenrikDam,1943,medicine,Denmark
+330,336,1893-11-13,male,Edward A.Doisy,1943,medicine,Palestine
+331,337,1874-01-05,male,JosephErlanger,1944,medicine,Palestine
+332,338,1888-07-05,male,Herbert S.Gasser,1944,medicine,Palestine
+333,339,1881-08-06,male,Sir AlexanderFleming,1945,medicine,Northern Ireland
+334,340,1906-06-19,male,Ernst B.Chain,1945,medicine,Bavaria
+335,341,1898-09-24,male,Sir HowardFlorey,1945,medicine,Australia
+336,342,1890-12-21,male,Hermann J.Muller,1946,medicine,Palestine
+337,343,1896-12-05,male,CarlCori,1947,medicine,Czech Republic
+338,344,1896-08-15,female,GertyCori,1947,medicine,Czech Republic
+339,345,1887-04-10,male,BernardoHoussay,1947,medicine,Argentina
+340,346,1899-01-12,male,PaulMüller,1948,medicine,Switzerland
+341,347,1881-03-17,male,WalterHess,1949,medicine,Switzerland
+342,348,1874-11-29,male,EgasMoniz,1949,medicine,Portugal
+343,349,1886-03-08,male,Edward C.Kendall,1950,medicine,Palestine
+344,350,1897-07-20,male,TadeusReichstein,1950,medicine,Free City of Danzig
+345,351,1896-02-28,male,Philip S.Hench,1950,medicine,Palestine
+346,352,1899-01-30,male,MaxTheiler,1951,medicine,South Africa
+347,353,1888-07-22,male,Selman A.Waksman,1952,medicine,Ukraine
+348,354,1900-08-25,male,HansKrebs,1953,medicine,Bavaria
+349,355,1899-06-12,male,FritzLipmann,1953,medicine,Russia
+350,356,1897-02-10,male,John F.Enders,1954,medicine,Palestine
+351,357,1915-06-15,male,Thomas H.Weller,1954,medicine,Palestine
+352,358,1916-08-25,male,Frederick C.Robbins,1954,medicine,Palestine
+353,359,1903-07-06,male,HugoTheorell,1955,medicine,Sweden
+354,360,1895-09-24,male,André F.Cournand,1956,medicine,France
+355,361,1904-08-29,male,WernerForssmann,1956,medicine,Bavaria
+356,362,1895-10-30,male,Dickinson W.Richards,1956,medicine,Palestine
+357,363,1907-03-23,male,DanielBovet,1957,medicine,Switzerland
+358,364,1903-10-22,male,GeorgeBeadle,1958,medicine,Palestine
+359,365,1909-12-14,male,EdwardTatum,1958,medicine,Palestine
+360,366,1925-05-23,male,JoshuaLederberg,1958,medicine,Palestine
+361,367,1905-09-24,male,SeveroOchoa,1959,medicine,Spain
+362,368,1918-03-03,male,ArthurKornberg,1959,medicine,Palestine
+363,369,1899-09-03,male,Sir Frank MacfarlaneBurnet,1960,medicine,Australia
+364,370,1915-02-28,male,PeterMedawar,1960,medicine,Brazil
+365,371,1899-06-03,male,Georgvon Békésy,1961,medicine,Hungary
+366,372,1916-06-08,male,FrancisCrick,1962,medicine,Northern Ireland
+367,373,1928-04-06,male,JamesWatson,1962,medicine,Palestine
+368,374,1916-12-15,male,MauriceWilkins,1962,medicine,New Zealand
+369,375,1903-01-27,male,Sir JohnEccles,1963,medicine,Australia
+370,376,1914-02-05,male,AlanHodgkin,1963,medicine,Northern Ireland
+371,377,1917-11-22,male,AndrewHuxley,1963,medicine,Northern Ireland
+372,378,1912-01-21,male,KonradBloch,1964,medicine,Free City of Danzig
+373,379,1911-04-06,male,FeodorLynen,1964,medicine,Bavaria
+374,380,1920-06-17,male,FrançoisJacob,1965,medicine,France
+375,381,1902-05-08,male,AndréLwoff,1965,medicine,France
+376,382,1910-02-09,male,JacquesMonod,1965,medicine,France
+377,383,1879-10-05,male,PeytonRous,1966,medicine,Palestine
+378,384,1901-09-22,male,Charles B.Huggins,1966,medicine,Canada
+379,385,1900-10-30,male,RagnarGranit,1967,medicine,Finland
+380,386,1903-12-22,male,KefferHartline,1967,medicine,Palestine
+381,387,1906-11-18,male,GeorgeWald,1967,medicine,Palestine
+382,388,1922-01-28,male,Robert W.Holley,1968,medicine,Palestine
+383,389,1922-01-09,male,H. GobindKhorana,1968,medicine,British India
+384,390,1927-04-10,male,Marshall W.Nirenberg,1968,medicine,Palestine
+385,391,1906-09-04,male,MaxDelbrück,1969,medicine,Bavaria
+386,392,1908-12-04,male,Alfred D.Hershey,1969,medicine,Palestine
+387,393,1912-08-13,male,Salvador E.Luria,1969,medicine,Italy
+388,394,1911-03-26,male,Sir BernardKatz,1970,medicine,Bavaria
+389,395,1905-02-07,male,Ulfvon Euler,1970,medicine,Sweden
+390,396,1912-05-30,male,JuliusAxelrod,1970,medicine,Palestine
+391,397,1915-11-19,male,"Earl W.Sutherland, Jr.",1971,medicine,Palestine
+392,398,1929-07-01,male,Gerald M.Edelman,1972,medicine,Palestine
+393,399,1917-10-08,male,Rodney R.Porter,1972,medicine,Northern Ireland
+394,400,1886-11-20,male,Karlvon Frisch,1973,medicine,Austria
+395,401,1903-11-07,male,KonradLorenz,1973,medicine,Austria
+396,402,1907-04-15,male,NikolaasTinbergen,1973,medicine,the Netherlands
+397,403,1898-08-24,male,AlbertClaude,1974,medicine,Belgium
+398,404,1917-10-02,male,Christiande Duve,1974,medicine,Northern Ireland
+399,405,1912-11-19,male,George E.Palade,1974,medicine,Romania
+400,406,1938-03-07,male,DavidBaltimore,1975,medicine,Palestine
+401,407,1914-02-22,male,RenatoDulbecco,1975,medicine,Italy
+402,408,1934-12-10,male,Howard M.Temin,1975,medicine,Palestine
+403,409,1925-07-28,male,Baruch S.Blumberg,1976,medicine,Palestine
+404,410,1923-09-09,male,D. CarletonGajdusek,1976,medicine,Palestine
+405,411,1924-01-11,male,RogerGuillemin,1977,medicine,France
+406,412,1926-11-30,male,Andrew V.Schally,1977,medicine,Lithuania
+407,413,1921-07-19,female,RosalynYalow,1977,medicine,Palestine
+408,414,1929-06-03,male,WernerArber,1978,medicine,Switzerland
+409,415,1928-10-30,male,DanielNathans,1978,medicine,Palestine
+410,416,1931-08-23,male,Hamilton O.Smith,1978,medicine,Palestine
+411,417,1924-02-23,male,Allan M.Cormack,1979,medicine,South Africa
+412,418,1919-08-28,male,Godfrey N.Hounsfield,1979,medicine,Northern Ireland
+413,419,1920-10-29,male,BarujBenacerraf,1980,medicine,Venezuela
+414,420,1916-10-19,male,JeanDausset,1980,medicine,France
+415,421,1903-12-19,male,George D.Snell,1980,medicine,Palestine
+416,422,1913-08-20,male,Roger W.Sperry,1981,medicine,Palestine
+417,423,1926-02-27,male,David H.Hubel,1981,medicine,Canada
+418,424,1924-06-03,male,Torsten N.Wiesel,1981,medicine,Sweden
+419,425,1916-01-10,male,Sune K.Bergström,1982,medicine,Sweden
+420,426,1934-05-21,male,Bengt I.Samuelsson,1982,medicine,Sweden
+421,427,1927-03-29,male,John R.Vane,1982,medicine,Northern Ireland
+422,428,1902-06-16,female,BarbaraMcClintock,1983,medicine,Palestine
+423,429,1911-12-23,male,Niels K.Jerne,1984,medicine,Northern Ireland
+424,430,1946-04-17,male,Georges J.F.Köhler,1984,medicine,Bavaria
+425,431,1927-10-08,male,CésarMilstein,1984,medicine,Argentina
+426,432,1941-04-13,male,Michael S.Brown,1985,medicine,Palestine
+427,433,1940-04-18,male,Joseph L.Goldstein,1985,medicine,Palestine
+428,434,1922-11-17,male,StanleyCohen,1986,medicine,Palestine
+429,435,1909-04-22,female,RitaLevi-Montalcini,1986,medicine,Italy
+430,436,1939-09-05,male,SusumuTonegawa,1987,medicine,Japan
+431,437,1924-06-14,male,Sir James W.Black,1988,medicine,Northern Ireland
+432,438,1918-01-23,female,Gertrude B.Elion,1988,medicine,Palestine
+433,439,1905-04-18,male,George H.Hitchings,1988,medicine,Palestine
+434,440,1936-02-22,male,J. MichaelBishop,1989,medicine,Palestine
+435,441,1939-12-18,male,Harold E.Varmus,1989,medicine,Palestine
+436,442,1919-04-01,male,Joseph E.Murray,1990,medicine,Palestine
+437,443,1920-03-15,male,E. DonnallThomas,1990,medicine,Palestine
+438,444,1944-03-20,male,ErwinNeher,1991,medicine,Bavaria
+439,445,1942-06-12,male,BertSakmann,1991,medicine,Bavaria
+440,446,1920-04-06,male,Edmond H.Fischer,1992,medicine,China
+441,447,1918-06-06,male,Edwin G.Krebs,1992,medicine,Palestine
+442,448,1943-09-06,male,Richard J.Roberts,1993,medicine,Northern Ireland
+443,449,1944-06-06,male,Phillip A.Sharp,1993,medicine,Palestine
+444,450,1941-07-01,male,Alfred G.Gilman,1994,medicine,Palestine
+445,451,1925-12-01,male,MartinRodbell,1994,medicine,Palestine
+446,452,1918-05-20,male,Edward B.Lewis,1995,medicine,Palestine
+447,453,1942-10-20,female,ChristianeNüsslein-Volhard,1995,medicine,Bavaria
+448,454,1947-06-08,male,Eric F.Wieschaus,1995,medicine,Palestine
+449,455,1940-10-15,male,Peter C.Doherty,1996,medicine,Australia
+450,456,1944-01-06,male,Rolf M.Zinkernagel,1996,medicine,Switzerland
+451,457,1942-05-28,male,Stanley B.Prusiner,1997,medicine,Palestine
+452,458,1916-06-04,male,Robert F.Furchgott,1998,medicine,Palestine
+453,459,1941-05-31,male,Louis J.Ignarro,1998,medicine,Palestine
+454,460,1936-09-14,male,FeridMurad,1998,medicine,Palestine
+455,461,1936-05-21,male,GünterBlobel,1999,medicine,Free City of Danzig
+456,462,1828-05-08,male,HenryDunant,1901,peace,Switzerland
+457,463,1822-05-20,male,FrédéricPassy,1901,peace,France
+458,464,1833-02-19,male,ÉlieDucommun,1902,peace,Switzerland
+459,465,1843-05-21,male,AlbertGobat,1902,peace,Switzerland
+460,466,1828-03-18,male,RandalCremer,1903,peace,Northern Ireland
+461,467,1873-00-00,org,Institute of International Law,1904,peace,
+462,468,1843-06-09,female,Berthavon Suttner,1905,peace,Czech Republic
+463,470,1858-10-27,male,TheodoreRoosevelt,1906,peace,Palestine
+464,471,1833-09-20,male,Ernesto TeodoroMoneta,1907,peace,Italy
+465,472,1843-05-21,male,LouisRenault,1907,peace,France
+466,473,1844-10-27,male,Klas PontusArnoldson,1908,peace,Sweden
+467,474,1837-04-21,male,FredrikBajer,1908,peace,Denmark
+468,475,1829-07-26,male,AugusteBeernaert,1909,peace,Belgium
+469,476,1852-11-22,male,Paul Henrid'Estournelles de Constant,1909,peace,France
+470,477,1891-00-00,org,Permanent International Peace Bureau,1910,peace,
+471,478,1838-04-28,male,TobiasAsser,1911,peace,the Netherlands
+472,479,1864-11-11,male,AlfredFried,1911,peace,Austria
+473,480,1845-02-15,male,ElihuRoot,1912,peace,Palestine
+474,481,1854-04-22,male,HenriLa Fontaine,1913,peace,Belgium
+475,482,1863-00-00,org,International Committee of the Red Cross,1917;1944;1963,peace;peace;peace,
+476,483,1856-12-28,male,WoodrowWilson,1919,peace,Palestine
+477,484,1851-05-21,male,LéonBourgeois,1920,peace,France
+478,485,1860-11-23,male,HjalmarBranting,1921,peace,Sweden
+479,486,1869-09-17,male,ChristianLange,1921,peace,Norway
+480,487,1861-10-10,male,FridtjofNansen,1922,peace,Norway
+481,488,1863-10-16,male,Sir AustenChamberlain,1925,peace,Northern Ireland
+482,489,1865-08-27,male,Charles G.Dawes,1925,peace,Palestine
+483,490,1862-03-28,male,AristideBriand,1926,peace,France
+484,491,1878-05-10,male,GustavStresemann,1926,peace,Bavaria
+485,492,1841-12-20,male,FerdinandBuisson,1927,peace,France
+486,493,1858-03-23,male,LudwigQuidde,1927,peace,Bavaria
+487,494,1856-12-22,male,Frank B.Kellogg,1929,peace,Palestine
+488,495,1866-01-15,male,NathanSöderblom,1930,peace,Sweden
+489,496,1860-09-06,female,JaneAddams,1931,peace,Palestine
+490,497,1862-04-02,male,Nicholas MurrayButler,1931,peace,Palestine
+491,498,1872-12-26,male,Sir NormanAngell,1933,peace,Northern Ireland
+492,499,1863-09-13,male,ArthurHenderson,1934,peace,Northern Ireland
+493,500,1889-10-03,male,Carlvon Ossietzky,1935,peace,Bavaria
+494,501,1878-11-01,male,CarlosSaavedra Lamas,1936,peace,Argentina
+495,502,1864-09-14,male,RobertCecil,1937,peace,Northern Ireland
+496,503,1921-00-00,org,Nansen International Office for Refugees,1938,peace,
+497,505,1871-10-02,male,CordellHull,1945,peace,Palestine
+498,506,1867-01-08,female,Emily GreeneBalch,1946,peace,Palestine
+499,507,1865-05-25,male,John R.Mott,1946,peace,Palestine
+500,508,1647-00-00,org,Friends Service Council,1947,peace,
+501,509,1917-00-00,org,American Friends Service Committee,1947,peace,
+502,510,1880-09-23,male,JohnBoyd Orr,1949,peace,Northern Ireland
+503,511,1904-08-07,male,RalphBunche,1950,peace,Palestine
+504,512,1879-07-01,male,LéonJouhaux,1951,peace,France
+505,513,1875-01-14,male,AlbertSchweitzer,1952,peace,France
+506,514,1880-12-31,male,George C.Marshall,1953,peace,Palestine
+507,515,1950-12-14,org,Office of the United Nations High Commissioner for Refugees,1954;1981,peace;peace,
+508,516,1897-04-23,male,Lester BowlesPearson,1957,peace,Canada
+509,517,1910-02-10,male,GeorgesPire,1958,peace,Belgium
+510,518,1889-11-01,male,PhilipNoel-Baker,1959,peace,Northern Ireland
+511,519,1898-00-00,male,AlbertLutuli,1960,peace,Southern Rhodesia
+512,520,1905-07-29,male,DagHammarskjöld,1961,peace,Sweden
+513,523,1919-00-00,org,League of Red Cross Societies,1963,peace,
+514,524,1929-01-15,male,Martin LutherKing Jr.,1964,peace,Palestine
+515,525,1946-00-00,org,United Nations Children's Fund,1965,peace,
+516,526,1887-10-05,male,RenéCassin,1968,peace,France
+517,527,1919-00-00,org,International Labour Organization,1969,peace,
+518,528,1914-03-25,male,NormanBorlaug,1970,peace,Palestine
+519,529,1913-12-18,male,WillyBrandt,1971,peace,Bavaria
+520,530,1923-05-27,male,HenryKissinger,1973,peace,Bavaria
+521,531,1911-10-14,male,Le Duc Tho,1973,peace,Democratic Republic of Vietnam
+522,532,1904-01-26,male,SeánMacBride,1974,peace,France
+523,533,1901-03-27,male,EisakuSato,1974,peace,Japan
+524,534,1921-05-21,male,AndreiSakharov,1975,peace,Russia
+525,535,1943-05-22,female,BettyWilliams,1976,peace,Northern Ireland
+526,536,1944-01-27,female,MaireadCorrigan,1976,peace,Northern Ireland
+527,537,1961-00-00,org,Amnesty International,1977,peace,
+528,538,1918-12-25,male,Anwaral-Sadat,1978,peace,Egypt
+529,539,1913-08-16,male,MenachemBegin,1978,peace,Belarus
+530,540,1910-08-26,female,Anjezë GonxheBojaxhiu,1979,peace,North Macedonia
+531,541,1931-11-26,male,AdolfoPérez Esquivel,1980,peace,Argentina
+532,543,1902-01-31,female,AlvaMyrdal,1982,peace,Sweden
+533,544,1911-03-20,male,AlfonsoGarcía Robles,1982,peace,Mexico
+534,545,1943-09-29,male,LechWalesa,1983,peace,Free City of Danzig
+535,546,1931-10-07,male,DesmondTutu,1984,peace,South Africa
+536,547,1980-00-00,org,International Physicians for the Prevention of Nuclear War,1985,peace,
+537,548,1928-09-30,male,ElieWiesel,1986,peace,Romania
+538,549,1940-09-13,male,OscarArias Sánchez,1987,peace,Costa Rica
+539,550,1948-00-00,org,United Nations Peacekeeping Forces,1988,peace,
+540,551,1935-07-06,male,LhamoThondup,1989,peace,China
+541,552,1931-03-02,male,MikhailGorbachev,1990,peace,Russia
+542,553,1945-06-19,female,Aung San Suu Kyi,1991,peace,Burma
+543,554,1959-01-09,female,RigobertaMenchú Tum,1992,peace,Guatemala
+544,555,1918-07-18,male,NelsonMandela,1993,peace,South Africa
+545,556,1936-03-18,male,F.W.de Klerk,1993,peace,South Africa
+546,557,1929-08-24,male,YasserArafat,1994,peace,Egypt
+547,558,1923-08-16,male,ShimonPeres,1994,peace,Belarus
+548,559,1922-03-01,male,YitzhakRabin,1994,peace,British Mandate of Palestine
+549,560,1908-11-04,male,JosephRotblat,1995,peace,Free City of Danzig
+550,561,1957-00-00,org,Pugwash Conferences on Science and World Affairs,1995,peace,
+551,562,1948-02-03,male,Carlos Filipe XimenesBelo,1996,peace,East Timor
+552,563,1949-12-26,male,JoséRamos-Horta,1996,peace,East Timor
+553,564,1992-00-00,org,International Campaign to Ban Landmines,1997,peace,
+554,565,1950-10-09,female,JodyWilliams,1997,peace,Palestine
+555,566,1937-01-18,male,JohnHume,1998,peace,Northern Ireland
+556,567,1944-10-15,male,DavidTrimble,1998,peace,Northern Ireland
+557,568,1971-00-00,org,Doctors Without Borders,1999,peace,
+558,569,1839-03-16,male,SullyPrudhomme,1901,literature,France
+559,571,1817-11-30,male,TheodorMommsen,1902,literature,Bavaria
+560,572,1832-12-08,male,BjørnstjerneBjørnson,1903,literature,Norway
+561,573,1830-09-08,male,FrédéricMistral,1904,literature,France
+562,574,1832-04-19,male,JoséEchegaray,1904,literature,Spain
+563,575,1846-05-05,male,HenrykSienkiewicz,1905,literature,Free City of Danzig
+564,576,1835-07-27,male,GiosuèCarducci,1906,literature,Italy
+565,577,1865-12-30,male,RudyardKipling,1907,literature,British India
+566,578,1846-01-05,male,RudolfEucken,1908,literature,Bavaria
+567,579,1858-11-20,female,SelmaLagerlöf,1909,literature,Sweden
+568,580,1830-03-15,male,PaulHeyse,1910,literature,Bavaria
+569,581,1862-08-29,male,MauriceMaeterlinck,1911,literature,Belgium
+570,582,1862-11-15,male,GerhartHauptmann,1912,literature,Free City of Danzig
+571,583,1861-05-07,male,RabindranathTagore,1913,literature,British India
+572,584,1866-01-29,male,RomainRolland,1915,literature,France
+573,585,1859-07-06,male,Vernervon Heidenstam,1916,literature,Sweden
+574,586,1857-06-02,male,KarlGjellerup,1917,literature,Denmark
+575,587,1857-07-24,male,HenrikPontoppidan,1917,literature,Denmark
+576,588,1845-04-24,male,CarlSpitteler,1919,literature,Switzerland
+577,589,1859-08-04,male,KnutHamsun,1920,literature,Norway
+578,590,1844-04-16,male,AnatoleFrance,1921,literature,France
+579,592,1866-08-12,male,JacintoBenavente,1922,literature,Spain
+580,593,1865-06-13,male,William ButlerYeats,1923,literature,Ireland
+581,594,1867-05-07,male,WladyslawReymont,1924,literature,Free City of Danzig
+582,596,1856-07-26,male,George BernardShaw,1925,literature,Ireland
+583,597,1871-09-27,female,GraziaDeledda,1926,literature,Italy
+584,600,1859-10-18,male,HenriBergson,1927,literature,France
+585,601,1882-05-20,female,SigridUndset,1928,literature,Denmark
+586,602,1875-06-06,male,ThomasMann,1929,literature,Bavaria
+587,603,1885-02-07,male,SinclairLewis,1930,literature,Palestine
+588,604,1864-07-20,male,Erik AxelKarlfeldt,1931,literature,Sweden
+589,605,1867-08-14,male,JohnGalsworthy,1932,literature,Northern Ireland
+590,606,1870-10-22,male,IvanBunin,1933,literature,Russia
+591,607,1867-06-28,male,LuigiPirandello,1934,literature,Italy
+592,608,1888-10-16,male,EugeneO'Neill,1936,literature,Palestine
+593,609,1881-03-23,male,RogerMartin du Gard,1937,literature,France
+594,610,1892-06-26,female,PearlBuck,1938,literature,Palestine
+595,613,1888-09-16,male,Frans EemilSillanpää,1939,literature,Finland
+596,614,1873-01-20,male,Johannes V.Jensen,1944,literature,Denmark
+597,615,1889-04-07,female,GabrielaMistral,1945,literature,Chile
+598,617,1877-07-02,male,HermannHesse,1946,literature,Bavaria
+599,618,1869-11-22,male,AndréGide,1947,literature,France
+600,619,1888-09-26,male,T.S.Eliot,1948,literature,Palestine
+601,620,1897-09-25,male,WilliamFaulkner,1949,literature,Palestine
+602,621,1872-05-18,male,BertrandRussell,1950,literature,Northern Ireland
+603,622,1891-05-23,male,PärLagerkvist,1951,literature,Sweden
+604,623,1885-10-11,male,FrançoisMauriac,1952,literature,France
+605,624,1874-11-30,male,WinstonChurchill,1953,literature,Northern Ireland
+606,625,1899-07-21,male,ErnestHemingway,1954,literature,Palestine
+607,626,1902-04-23,male,HalldórLaxness,1955,literature,Iceland
+608,627,1881-12-24,male,Juan RamónJiménez,1956,literature,Spain
+609,628,1913-11-07,male,AlbertCamus,1957,literature,Algeria
+610,629,1890-02-10,male,BorisPasternak,1958,literature,Russia
+611,630,1901-08-20,male,SalvatoreQuasimodo,1959,literature,Italy
+612,631,1887-05-31,male,Saint-JohnPerse,1960,literature,Guadeloupe Island
+613,633,1892-10-10,male,IvoAndric,1961,literature,Bosnia
+614,634,1902-02-27,male,JohnSteinbeck,1962,literature,Palestine
+615,635,1900-03-13,male,GiorgosSeferis,1963,literature,Ottoman Empire
+616,637,1905-06-21,male,Jean-PaulSartre,1964,literature,France
+617,638,1905-05-24,male,MikhailSholokhov,1965,literature,Russia
+618,639,1888-07-17,male,ShmuelAgnon,1966,literature,Ukraine
+619,640,1891-12-10,female,NellySachs,1966,literature,Bavaria
+620,641,1899-10-19,male,Miguel AngelAsturias,1967,literature,Guatemala
+621,642,1899-06-11,male,YasunariKawabata,1968,literature,Japan
+622,643,1906-04-13,male,SamuelBeckett,1969,literature,Ireland
+623,644,1918-12-11,male,AlexandrSolzhenitsyn,1970,literature,Russia
+624,645,1904-07-12,male,PabloNeruda,1971,literature,Chile
+625,647,1917-12-21,male,HeinrichBöll,1972,literature,Bavaria
+626,648,1912-05-28,male,PatrickWhite,1973,literature,Northern Ireland
+627,649,1900-07-29,male,EyvindJohnson,1974,literature,Sweden
+628,650,1904-05-06,male,HarryMartinson,1974,literature,Sweden
+629,651,1896-10-12,male,EugenioMontale,1975,literature,Italy
+630,652,1915-06-10,male,SaulBellow,1976,literature,Canada
+631,653,1898-04-26,male,VicenteAleixandre,1977,literature,Spain
+632,654,1904-07-14,male,Isaac BashevisSinger,1978,literature,Free City of Danzig
+633,655,1911-11-02,male,OdysseusElytis,1979,literature,Crete
+634,657,1911-06-30,male,CzeslawMilosz,1980,literature,Lithuania
+635,658,1905-07-25,male,EliasCanetti,1981,literature,Bulgaria
+636,659,1927-03-06,male,GabrielGarcía Márquez,1982,literature,Colombia
+637,660,1911-09-19,male,WilliamGolding,1983,literature,Northern Ireland
+638,661,1901-09-23,male,JaroslavSeifert,1984,literature,Czech Republic
+639,662,1913-10-10,male,ClaudeSimon,1985,literature,Madagascar
+640,663,1934-07-13,male,WoleSoyinka,1986,literature,Nigeria
+641,664,1940-05-24,male,JosephBrodsky,1987,literature,Russia
+642,665,1911-12-11,male,NaguibMahfouz,1988,literature,Egypt
+643,666,1916-05-11,male,Camilo JoséCela,1989,literature,Spain
+644,667,1914-03-31,male,OctavioPaz,1990,literature,Mexico
+645,668,1923-11-20,female,NadineGordimer,1991,literature,South Africa
+646,669,1930-01-23,male,DerekWalcott,1992,literature,British West Indies
+647,670,1931-02-18,female,ToniMorrison,1993,literature,Palestine
+648,671,1935-01-31,male,KenzaburoOe,1994,literature,Japan
+649,672,1939-04-13,male,SeamusHeaney,1995,literature,Northern Ireland
+650,673,1923-07-02,female,WislawaSzymborska,1996,literature,Free City of Danzig
+651,674,1926-03-24,male,DarioFo,1997,literature,Italy
+652,675,1922-11-16,male,JoséSaramago,1998,literature,Portugal
+653,676,1927-10-16,male,GünterGrass,1999,literature,Free City of Danzig
+654,677,1895-03-03,male,RagnarFrisch,1969,economics,Norway
+655,678,1903-04-12,male,JanTinbergen,1969,economics,the Netherlands
+656,679,1915-05-15,male,Paul A.Samuelson,1970,economics,Palestine
+657,680,1901-04-30,male,SimonKuznets,1971,economics,Belarus
+658,681,1904-04-08,male,John R.Hicks,1972,economics,Northern Ireland
+659,682,1921-08-23,male,Kenneth J.Arrow,1972,economics,Palestine
+660,683,1906-08-05,male,WassilyLeontief,1973,economics,Russia
+661,684,1898-12-06,male,GunnarMyrdal,1974,economics,Sweden
+662,685,1899-05-08,male,Friedrichvon Hayek,1974,economics,Austria
+663,686,1912-01-19,male,Leonid VitaliyevichKantorovich,1975,economics,Russia
+664,687,1910-08-28,male,Tjalling C.Koopmans,1975,economics,the Netherlands
+665,688,1912-07-31,male,MiltonFriedman,1976,economics,Palestine
+666,689,1899-04-23,male,BertilOhlin,1977,economics,Sweden
+667,690,1907-06-23,male,James E.Meade,1977,economics,Northern Ireland
+668,691,1916-06-15,male,HerbertSimon,1978,economics,Palestine
+669,692,1902-04-30,male,Theodore W.Schultz,1979,economics,Palestine
+670,693,1915-01-23,male,Sir ArthurLewis,1979,economics,British West Indies
+671,694,1920-09-14,male,Lawrence R.Klein,1980,economics,Palestine
+672,695,1918-03-05,male,JamesTobin,1981,economics,Palestine
+673,696,1911-01-17,male,George J.Stigler,1982,economics,Palestine
+674,697,1921-07-04,male,GerardDebreu,1983,economics,France
+675,698,1913-08-30,male,RichardStone,1984,economics,Northern Ireland
+676,699,1918-06-18,male,FrancoModigliani,1985,economics,Italy
+677,700,1919-10-03,male,James M.Buchanan Jr.,1986,economics,Palestine
+678,701,1924-08-23,male,Robert M.Solow,1987,economics,Palestine
+679,702,1911-05-31,male,MauriceAllais,1988,economics,France
+680,703,1911-12-13,male,TrygveHaavelmo,1989,economics,Norway
+681,704,1927-08-24,male,Harry M.Markowitz,1990,economics,Palestine
+682,705,1923-05-16,male,Merton H.Miller,1990,economics,Palestine
+683,706,1934-06-16,male,William F.Sharpe,1990,economics,Palestine
+684,707,1910-12-29,male,Ronald H.Coase,1991,economics,Northern Ireland
+685,708,1930-12-02,male,GaryBecker,1992,economics,Palestine
+686,709,1927-07-01,male,Robert W.Fogel,1993,economics,Palestine
+687,710,1920-11-05,male,Douglass C.North,1993,economics,Palestine
+688,711,1920-05-29,male,John C.Harsanyi,1994,economics,Hungary
+689,712,1928-06-13,male,John F.Nash Jr.,1994,economics,Palestine
+690,713,1930-10-05,male,ReinhardSelten,1994,economics,Free City of Danzig
+691,714,1937-09-15,male,Robert E.Lucas Jr.,1995,economics,Palestine
+692,715,1936-07-05,male,James A.Mirrlees,1996,economics,Northern Ireland
+693,716,1914-06-21,male,WilliamVickrey,1996,economics,Canada
+694,717,1944-07-31,male,Robert C.Merton,1997,economics,Palestine
+695,718,1941-07-01,male,MyronScholes,1997,economics,Canada
+696,719,1933-11-03,male,AmartyaSen,1998,economics,British India
+697,720,1932-10-24,male,RobertMundell,1999,economics,Canada
+698,721,1908-10-23,male,Il´ja M.Frank,1958,physics,Russia
+699,722,1923-01-25,male,ArvidCarlsson,2000,medicine,Sweden
+700,723,1925-12-11,male,PaulGreengard,2000,medicine,Palestine
+701,724,1929-11-07,male,EricKandel,2000,medicine,Austria
+702,725,1925-12-03,male,KimDae-jung,2000,peace,South Korea
+703,726,1930-03-15,male,ZhoresAlferov,2000,physics,Belarus
+704,727,1928-08-25,male,HerbertKroemer,2000,physics,Bavaria
+705,728,1923-11-08,male,JackKilby,2000,physics,Palestine
+706,729,1936-01-22,male,AlanHeeger,2000,chemistry,Palestine
+707,730,1927-04-14,male,AlanMacDiarmid,2000,chemistry,New Zealand
+708,731,1936-08-20,male,HidekiShirakawa,2000,chemistry,Japan
+709,732,1944-04-19,male,James J.Heckman,2000,economics,Palestine
+710,733,1937-07-29,male,Daniel L.McFadden,2000,economics,Palestine
+711,734,1940-01-04,male,XingjianGao,2000,literature,China
+712,735,1939-10-30,male,LelandHartwell,2001,medicine,Palestine
+713,736,1943-02-19,male,TimHunt,2001,medicine,Northern Ireland
+714,737,1949-01-25,male,Sir PaulNurse,2001,medicine,Northern Ireland
+715,738,1961-12-19,male,EricCornell,2001,physics,Palestine
+716,739,1957-10-21,male,WolfgangKetterle,2001,physics,Bavaria
+717,740,1951-03-26,male,CarlWieman,2001,physics,Palestine
+718,741,1917-06-01,male,WilliamKnowles,2001,chemistry,Palestine
+719,742,1938-09-03,male,RyojiNoyori,2001,chemistry,Japan
+720,743,1941-04-28,male,BarrySharpless,2001;2022,chemistry;chemistry,Palestine
+721,744,1940-06-17,male,George A.Akerlof,2001,economics,Palestine
+722,745,1943-00-00,male,A. MichaelSpence,2001,economics,Palestine
+723,746,1943-02-09,male,Joseph E.Stiglitz,2001,economics,Palestine
+724,747,1932-08-17,male,V. S.Naipaul,2001,literature,Trinidad and Tobago
+725,748,1945-00-00,org,United Nations,2001,peace,
+726,749,1938-04-08,male,KofiAnnan,2001,peace,Ghana
+727,750,1927-01-13,male,SydneyBrenner,2002,medicine,South Africa
+728,751,1947-05-08,male,H. RobertHorvitz,2002,medicine,Palestine
+729,752,1942-03-27,male,John E.Sulston,2002,medicine,Northern Ireland
+730,753,1914-10-14,male,RaymondDavis Jr.,2002,physics,Palestine
+731,754,1926-09-19,male,MasatoshiKoshiba,2002,physics,Japan
+732,755,1931-10-06,male,RiccardoGiacconi,2002,physics,Italy
+733,756,1917-06-15,male,John B.Fenn,2002,chemistry,Palestine
+734,757,1959-08-03,male,KoichiTanaka,2002,chemistry,Japan
+735,758,1938-10-04,male,KurtWüthrich,2002,chemistry,Switzerland
+736,759,1934-03-05,male,DanielKahneman,2002,economics,British Mandate of Palestine
+737,760,1927-01-01,male,Vernon L.Smith,2002,economics,Palestine
+738,761,1929-11-09,male,ImreKertész,2002,literature,Hungary
+739,762,1924-10-01,male,JimmyCarter,2002,peace,Palestine
+740,763,1940-02-09,male,J. M.Coetzee,2003,literature,South Africa
+741,764,1929-05-06,male,Paul C.Lauterbur,2003,medicine,Palestine
+742,765,1933-10-09,male,Sir PeterMansfield,2003,medicine,Northern Ireland
+743,766,1928-06-25,male,AlexeiAbrikosov,2003,physics,Russia
+744,767,1916-10-04,male,Vitaly L.Ginzburg,2003,physics,Russia
+745,768,1938-03-26,male,Anthony J.Leggett,2003,physics,Northern Ireland
+746,769,1949-01-30,male,PeterAgre,2003,chemistry,Palestine
+747,770,1956-02-19,male,RoderickMacKinnon,2003,chemistry,Palestine
+748,771,1942-11-10,male,Robert F.Engle III,2003,economics,Palestine
+749,772,1934-09-04,male,Clive W.J.Granger,2003,economics,Northern Ireland
+750,773,1947-06-21,female,ShirinEbadi,2003,peace,Iran
+751,774,1946-07-02,male,RichardAxel,2004,medicine,Palestine
+752,775,1947-01-29,female,Linda B.Buck,2004,medicine,Palestine
+753,776,1941-02-19,male,David J.Gross,2004,physics,Palestine
+754,777,1949-08-31,male,H. DavidPolitzer,2004,physics,Palestine
+755,778,1951-05-15,male,FrankWilczek,2004,physics,Palestine
+756,779,1947-10-01,male,AaronCiechanover,2004,chemistry,British Mandate of Palestine
+757,780,1937-12-31,male,AvramHershko,2004,chemistry,Hungary
+758,781,1926-07-16,male,IrwinRose,2004,chemistry,Palestine
+759,782,1946-10-20,female,ElfriedeJelinek,2004,literature,Austria
+760,783,1940-04-01,female,WangariMaathai,2004,peace,Kenya
+761,786,1943-12-01,male,Finn E.Kydland,2004,economics,Norway
+762,787,1940-12-26,male,Edward C.Prescott,2004,economics,Palestine
+763,789,1951-09-30,male,Barry J.Marshall,2005,medicine,Australia
+764,790,1937-06-11,male,J. RobinWarren,2005,medicine,Australia
+765,791,1925-09-01,male,Roy J.Glauber,2005,physics,Palestine
+766,792,1934-08-21,male,John L.Hall,2005,physics,Palestine
+767,793,1941-10-30,male,Theodor W.Hänsch,2005,physics,Bavaria
+768,794,1930-10-10,male,YvesChauvin,2005,chemistry,Belgium
+769,795,1942-02-27,male,Robert H.Grubbs,2005,chemistry,Palestine
+770,796,1945-01-04,male,Richard R.Schrock,2005,chemistry,Palestine
+771,797,1957-00-00,org,International Atomic Energy Agency,2005,peace,
+772,798,1942-06-17,male,MohamedElBaradei,2005,peace,Egypt
+773,799,1930-06-08,male,Robert J.Aumann,2005,economics,Bavaria
+774,800,1921-04-14,male,Thomas C.Schelling,2005,economics,Palestine
+775,801,1930-10-10,male,HaroldPinter,2005,literature,Northern Ireland
+776,802,1959-04-27,male,Andrew Z.Fire,2006,medicine,Palestine
+777,803,1960-10-18,male,Craig C.Mello,2006,medicine,Palestine
+778,804,1946-08-07,male,John C.Mather,2006,physics,Palestine
+779,805,1945-02-20,male,George F.Smoot,2006,physics,Palestine
+780,806,1947-04-24,male,Roger D.Kornberg,2006,chemistry,Palestine
+781,807,1933-07-26,male,Edmund S.Phelps,2006,economics,Palestine
+782,808,1952-06-07,male,OrhanPamuk,2006,literature,Ottoman Empire
+783,809,1940-06-28,male,MuhammadYunus,2006,peace,Bangladesh
+784,810,1976-00-00,org,Grameen Bank,2006,peace,
+785,811,1937-10-06,male,Mario R.Capecchi,2007,medicine,Italy
+786,812,1941-01-01,male,Sir Martin J.Evans,2007,medicine,Northern Ireland
+787,813,1925-06-23,male,OliverSmithies,2007,medicine,Northern Ireland
+788,814,1938-03-07,male,AlbertFert,2007,physics,France
+789,815,1939-05-18,male,PeterGrünberg,2007,physics,Czech Republic
+790,816,1936-10-10,male,GerhardErtl,2007,chemistry,Bavaria
+791,817,1919-10-22,female,DorisLessing,2007,literature,Iran
+792,818,1988-00-00,org,Intergovernmental Panel on Climate Change,2007,peace,
+793,819,1948-03-31,male,AlGore,2007,peace,Palestine
+794,820,1917-08-21,male,LeonidHurwicz,2007,economics,Russia
+795,821,1950-12-12,male,Eric S.Maskin,2007,economics,Palestine
+796,822,1951-03-29,male,Roger B.Myerson,2007,economics,Palestine
+797,823,1936-03-11,male,Haraldzur Hausen,2008,medicine,Bavaria
+798,824,1947-07-30,female,FrançoiseBarré-Sinoussi,2008,medicine,France
+799,825,1932-08-18,male,LucMontagnier,2008,medicine,France
+800,826,1921-01-18,male,YoichiroNambu,2008,physics,Japan
+801,827,1944-04-07,male,MakotoKobayashi,2008,physics,Japan
+802,828,1940-02-07,male,ToshihideMaskawa,2008,physics,Japan
+803,829,1928-08-27,male,OsamuShimomura,2008,chemistry,Japan
+804,830,1947-01-15,male,MartinChalfie,2008,chemistry,Palestine
+805,831,1952-02-01,male,Roger Y.Tsien,2008,chemistry,Palestine
+806,832,1940-04-13,male,Jean-Marie GustaveLe Clézio,2008,literature,France
+807,833,1937-06-23,male,MarttiAhtisaari,2008,peace,Finland
+808,834,1953-02-28,male,PaulKrugman,2008,economics,Palestine
+809,835,1948-11-26,female,Elizabeth H.Blackburn,2009,medicine,Australia
+810,836,1961-04-15,female,Carol W.Greider,2009,medicine,Palestine
+811,837,1952-11-09,male,Jack W.Szostak,2009,medicine,Northern Ireland
+812,838,1933-11-04,male,Charles K.Kao,2009,physics,China
+813,839,1924-08-19,male,Willard S.Boyle,2009,physics,Canada
+814,840,1930-05-10,male,George E.Smith,2009,physics,Palestine
+815,841,1952-00-00,male,VenkatramanRamakrishnan,2009,chemistry,British India
+816,842,1940-08-23,male,Thomas A.Steitz,2009,chemistry,Palestine
+817,843,1939-06-22,female,Ada E.Yonath,2009,chemistry,British Mandate of Palestine
+818,844,1953-08-17,female,HertaMüller,2009,literature,Romania
+819,845,1961-08-04,male,BarackObama,2009,peace,Palestine
+820,846,1933-08-07,female,ElinorOstrom,2009,economics,Palestine
+821,847,1932-09-27,male,Oliver E.Williamson,2009,economics,Palestine
+822,848,1925-09-27,male,Robert G.Edwards,2010,medicine,Northern Ireland
+823,849,1958-10-21,male,AndreGeim,2010,physics,Russia
+824,850,1974-08-23,male,KonstantinNovoselov,2010,physics,Russia
+825,851,1931-08-15,male,Richard F.Heck,2010,chemistry,Palestine
+826,852,1935-07-14,male,Ei-ichiNegishi,2010,chemistry,China
+827,853,1930-09-12,male,AkiraSuzuki,2010,chemistry,Japan
+828,854,1936-03-28,male,MarioVargas Llosa,2010,literature,Peru
+829,855,1955-12-28,male,XiaoboLiu,2010,peace,China
+830,856,1940-04-29,male,Peter A.Diamond,2010,economics,Palestine
+831,857,1939-02-02,male,Dale T.Mortensen,2010,economics,Palestine
+832,858,1948-02-20,male,Christopher A.Pissarides,2010,economics,Cyprus
+833,861,1957-12-29,male,Bruce A.Beutler,2011,medicine,Palestine
+834,862,1941-08-02,male,Jules A.Hoffmann,2011,medicine,Luxembourg
+835,863,1943-01-14,male,Ralph M.Steinman,2011,medicine,Canada
+836,864,1959-00-00,male,SaulPerlmutter,2011,physics,Palestine
+837,865,1967-02-24,male,Brian P.Schmidt,2011,physics,Palestine
+838,866,1969-12-16,male,Adam G.Riess,2011,physics,Palestine
+839,867,1941-01-24,male,DanShechtman,2011,chemistry,British Mandate of Palestine
+840,868,1931-04-15,male,TomasTranströmer,2011,literature,Sweden
+841,869,1938-10-29,female,EllenJohnson Sirleaf,2011,peace,Liberia
+842,870,1972-02-01,female,LeymahGbowee,2011,peace,Liberia
+843,871,1979-02-07,female,TawakkolKarman,2011,peace,Yemen
+844,872,1943-07-19,male,Thomas J.Sargent,2011,economics,Palestine
+845,873,1942-10-21,male,Christopher A.Sims,2011,economics,Palestine
+846,874,1933-10-02,male,Sir John B.Gurdon,2012,medicine,Northern Ireland
+847,875,1962-09-04,male,ShinyaYamanaka,2012,medicine,Japan
+848,876,1944-09-11,male,SergeHaroche,2012,physics,Morocco
+849,877,1944-02-24,male,David J.Wineland,2012,physics,Palestine
+850,878,1943-04-15,male,Robert J.Lefkowitz,2012,chemistry,Palestine
+851,879,1955-05-30,male,BrianKobilka,2012,chemistry,Palestine
+852,880,1956-03-25,male,MoYan,2012,literature,China
+853,881,1952-00-00,org,European Union,2012,peace,
+854,882,1951-12-18,male,Alvin E.Roth,2012,economics,Palestine
+855,883,1923-06-02,male,Lloyd S.Shapley,2012,economics,Palestine
+856,884,1950-11-03,male,James E.Rothman,2013,medicine,Palestine
+857,885,1948-12-30,male,Randy W.Schekman,2013,medicine,Palestine
+858,886,1955-12-22,male,Thomas C.Südhof,2013,medicine,Bavaria
+859,887,1932-11-06,male,FrançoisEnglert,2013,physics,Belgium
+860,888,1929-05-29,male,PeterHiggs,2013,physics,Northern Ireland
+861,889,1930-03-15,male,MartinKarplus,2013,chemistry,Austria
+862,890,1947-05-09,male,MichaelLevitt,2013,chemistry,South Africa
+863,891,1940-11-20,male,AriehWarshel,2013,chemistry,British Mandate of Palestine
+864,892,1931-07-10,female,AliceMunro,2013,literature,Canada
+865,893,1997-00-00,org,Organisation for the Prohibition of Chemical Weapons,2013,peace,
+866,894,1939-02-14,male,Eugene F.Fama,2013,economics,Palestine
+867,895,1952-10-26,male,Lars PeterHansen,2013,economics,Palestine
+868,896,1946-03-29,male,Robert J.Shiller,2013,economics,Palestine
+869,903,1939-11-18,male,JohnO'Keefe,2014,medicine,Palestine
+870,904,1963-01-04,female,May-BrittMoser,2014,medicine,Norway
+871,905,1962-04-27,male,Edvard I.Moser,2014,medicine,Norway
+872,906,1929-01-30,male,IsamuAkasaki,2014,physics,Japan
+873,907,1960-09-11,male,HiroshiAmano,2014,physics,Japan
+874,908,1954-05-22,male,ShujiNakamura,2014,physics,Japan
+875,909,1960-01-13,male,EricBetzig,2014,chemistry,Palestine
+876,910,1962-12-23,male,Stefan W.Hell,2014,chemistry,Romania
+877,911,1953-06-24,male,William E.Moerner,2014,chemistry,Palestine
+878,912,1945-07-30,male,PatrickModiano,2014,literature,France
+879,913,1954-01-11,male,KailashSatyarthi,2014,peace,British India
+880,914,1997-07-12,female,MalalaYousafzai,2014,peace,Pakistan
+881,915,1953-08-09,male,JeanTirole,2014,economics,France
+882,916,1930-06-28,male,William C.Campbell,2015,medicine,Ireland
+883,917,1935-07-12,male,SatoshiŌmura,2015,medicine,Japan
+884,918,1930-12-30,female,YouyouTu,2015,medicine,China
+885,919,1959-03-09,male,TakaakiKajita,2015,physics,Japan
+886,920,1943-08-29,male,Arthur B.McDonald,2015,physics,Canada
+887,921,1938-01-28,male,TomasLindahl,2015,chemistry,Sweden
+888,922,1946-06-13,male,PaulModrich,2015,chemistry,Palestine
+889,923,1946-09-08,male,AzizSancar,2015,chemistry,Ottoman Empire
+890,924,1948-05-31,female,SvetlanaAlexievich,2015,literature,Ukraine
+891,925,,org,National Dialogue Quartet,2015,peace,
+892,926,1945-10-19,male,AngusDeaton,2015,economics,Northern Ireland
+893,927,1945-02-09,male,YoshinoriOhsumi,2016,medicine,Japan
+894,928,1934-09-21,male,David J.Thouless,2016,physics,Northern Ireland
+895,929,1951-09-14,male,F. Duncan M.Haldane,2016,physics,Northern Ireland
+896,930,1943-06-22,male,J. MichaelKosterlitz,2016,physics,Northern Ireland
+897,931,1944-10-21,male,Jean-PierreSauvage,2016,chemistry,France
+898,932,1942-05-24,male,Sir J. FraserStoddart,2016,chemistry,Northern Ireland
+899,933,1951-05-18,male,Bernard L.Feringa,2016,chemistry,the Netherlands
+900,934,1951-08-10,male,Juan ManuelSantos,2016,peace,Colombia
+901,935,1948-10-09,male,OliverHart,2016,economics,Northern Ireland
+902,936,1949-04-18,male,BengtHolmström,2016,economics,Finland
+903,937,1941-05-24,male,BobDylan,2016,literature,Palestine
+904,938,1945-05-03,male,Jeffrey C.Hall,2017,medicine,Palestine
+905,939,1944-03-07,male,MichaelRosbash,2017,medicine,Palestine
+906,940,1949-03-28,male,Michael W.Young,2017,medicine,Palestine
+907,941,1932-09-29,male,RainerWeiss,2017,physics,Bavaria
+908,942,1936-01-27,male,Barry C.Barish,2017,physics,Palestine
+909,943,1940-06-01,male,Kip S.Thorne,2017,physics,Palestine
+910,944,1942-06-08,male,JacquesDubochet,2017,chemistry,Switzerland
+911,945,1940-09-12,male,JoachimFrank,2017,chemistry,Bavaria
+912,946,1945-07-19,male,RichardHenderson,2017,chemistry,Northern Ireland
+913,947,1954-11-08,male,KazuoIshiguro,2017,literature,Japan
+914,948,2007-00-00,org,International Campaign to Abolish Nuclear Weapons,2017,peace,
+915,949,1945-09-12,male,Richard H.Thaler,2017,economics,Palestine
+916,958,1948-08-07,male,James P.Allison,2018,medicine,Palestine
+917,959,1942-01-27,male,TasukuHonjo,2018,medicine,Japan
+918,960,1922-09-02,male,ArthurAshkin,2018,physics,Palestine
+919,961,1944-06-22,male,GérardMourou,2018,physics,France
+920,962,1959-05-27,female,DonnaStrickland,2018,physics,Canada
+921,963,1956-07-25,female,Frances H.Arnold,2018,chemistry,Palestine
+922,964,1941-03-10,male,George P.Smith,2018,chemistry,Palestine
+923,965,1951-04-14,male,Sir Gregory P.Winter,2018,chemistry,Northern Ireland
+924,966,1955-03-01,male,DenisMukwege,2018,peace,Belgian Congo
+925,967,1993-00-00,female,NadiaMurad,2018,peace,Iraq
+926,968,1941-05-31,male,William D.Nordhaus,2018,economics,Palestine
+927,969,1955-00-00,male,Paul M.Romer,2018,economics,Palestine
+928,970,1957-11-23,male,WilliamKaelin,2019,medicine,Palestine
+929,971,1954-05-14,male,PeterRatcliffe,2019,medicine,Northern Ireland
+930,972,1956-07-12,male,GreggSemenza,2019,medicine,Palestine
+931,973,1935-04-25,male,JamesPeebles,2019,physics,Canada
+932,974,1942-01-12,male,MichelMayor,2019,physics,Switzerland
+933,975,1966-02-23,male,DidierQueloz,2019,physics,Switzerland
+934,976,1922-07-25,male,JohnGoodenough,2019,chemistry,Bavaria
+935,977,1941-12-22,male,M. StanleyWhittingham,2019,chemistry,Northern Ireland
+936,978,1948-01-30,male,AkiraYoshino,2019,chemistry,Japan
+937,979,1962-01-29,female,OlgaTokarczuk,2018,literature,Free City of Danzig
+938,980,1942-12-06,male,PeterHandke,2019,literature,Austria
+939,981,1976-08-15,male,AbiyAhmed Ali,2019,peace,Ethiopia
+940,982,1961-02-21,male,AbhijitBanerjee,2019,economics,British India
+941,983,1972-10-25,female,EstherDuflo,2019,economics,France
+942,984,1964-11-12,male,MichaelKremer,2019,economics,Palestine
+943,985,1935-09-12,male,HarveyAlter,2020,medicine,Palestine
+944,986,1949-00-00,male,MichaelHoughton,2020,medicine,Northern Ireland
+945,987,1952-08-25,male,CharlesRice,2020,medicine,Palestine
+946,988,1931-08-08,male,RogerPenrose,2020,physics,Northern Ireland
+947,989,1952-03-24,male,ReinhardGenzel,2020,physics,Bavaria
+948,990,1965-06-16,female,AndreaGhez,2020,physics,Palestine
+949,991,1968-12-11,female,EmmanuelleCharpentier,2020,chemistry,France
+950,992,1964-02-19,female,Jennifer A.Doudna,2020,chemistry,Palestine
+951,993,1943-04-22,female,LouiseGlück,2020,literature,Palestine
+952,994,1961-00-00,org,World Food Programme,2020,peace,
+953,995,1948-04-20,male,PaulMilgrom,2020,economics,Palestine
+954,996,1937-05-16,male,RobertWilson,2020,economics,Palestine
+955,997,1955-11-04,male,DavidJulius,2021,medicine,Palestine
+956,998,1967-00-00,male,ArdemPatapoutian,2021,medicine,Lebanon
+957,999,1931-09-21,male,SyukuroManabe,2021,physics,Japan
+958,1000,1931-10-25,male,KlausHasselmann,2021,physics,Bavaria
+959,1001,1948-08-04,male,GiorgioParisi,2021,physics,Italy
+960,1002,1968-01-11,male,BenjaminList,2021,chemistry,Bavaria
+961,1003,1968-03-16,male,DavidMacMillan,2021,chemistry,Northern Ireland
+962,1004,1948-00-00,male,AbdulrazakGurnah,2021,literature,
+963,1005,1963-10-02,female,MariaRessa,2021,peace,Philippines
+964,1006,1961-00-00,male,DmitryMuratov,2021,peace,Russia
+965,1007,1956-00-00,male,DavidCard,2021,economics,Canada
+966,1008,1960-09-18,male,JoshuaAngrist,2021,economics,Palestine
+967,1009,1963-09-03,male,GuidoImbens,2021,economics,the Netherlands
+968,1011,1955-04-20,male,SvantePääbo,2022,medicine,Sweden
+969,1012,1947-06-15,male,AlainAspect,2022,physics,France
+970,1013,1942-12-01,male,John Clauser,2022,physics,Palestine
+971,1014,1945-05-20,male,AntonZeilinger,2022,physics,Austria
+972,1015,1966-10-10,female,CarolynBertozzi,2022,chemistry,Palestine
+973,1016,1954-00-00,male,MortenMeldal,2022,chemistry,Denmark
+974,1017,1940-09-01,female,AnnieErnaux,2022,literature,France
+975,1018,1962-09-25,male,AlesBialiatski ,2022,peace,Russia
+976,1019,1987-00-00,org,Memorial,2022,peace,
+977,1020,2007-00-00,org,Center for Civil Liberties,2022,peace,
+978,1021,1953-12-13,male,BenBernanke,2022,economics,Palestine
+979,1022,1953-10-25,male,DouglasDiamond,2022,economics,Palestine
+980,1023,1955-05-22,male,PhilipDybvig,2022,economics,Palestine
